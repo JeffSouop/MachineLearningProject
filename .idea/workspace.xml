@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bf06283-399a-462a-85b6-0aa2d8ae4983" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MachineLearningProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset.dat" afterDir="false" />
+    <list default="true" id="8bf06283-399a-462a-85b6-0aa2d8ae4983" name="Changes" comment="TP">
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/TP2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset1.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset3.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +69,17 @@
       <option name="presentableId" value="Default" />
       <updated>1707486539330</updated>
       <workItem from="1707486546064" duration="3000" />
-      <workItem from="1707726780812" duration="8978000" />
+      <workItem from="1707726780812" duration="9336000" />
     </task>
+    <task id="LOCAL-00001" summary="TP">
+      <option name="closed" value="true" />
+      <created>1707820513997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707820513997</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="TP" />
+    <option name="LAST_COMMIT_MESSAGE" value="TP" />
   </component>
 </project>
